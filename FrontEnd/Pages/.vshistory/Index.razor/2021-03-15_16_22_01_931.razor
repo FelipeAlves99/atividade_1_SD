@@ -1,0 +1,51 @@
+﻿@page "/"
+@inject HttpClient HttpClient
+
+<h1>Ola, Web API!</h1>
+
+Bem vindos a pagina de teste de Desenvolvimento.
+
+<br>
+
+<label>Url:</label>
+<div>
+    <InputText class="form-control" @bind-Value="@strURL" />
+
+</div>
+
+<button class="btn btn-primary" @onclick="InvocarAPI">Executar</button>
+<button class="btn btn-primary" @onclick="Limpar">Limpar</button>
+
+<label>Resposta:</label>
+<div class="alert-info">
+    <h2> @Resposta </h2>
+</div>
+
+
+@code
+{
+    private String strURL;
+    private String Resposta;
+    /*
+    protected override async Task OnInitializedAsync()
+    {
+      var str = await requisicaoHttp.Get<string>("sample-data/weather.json");
+    }
+    */
+
+    private async void InvocarAPI()
+    {
+        var resp = HttpClient.GetAsync(strURL);
+        Resposta = await resp.Result.Content.ReadAsStringAsync().ConfigureAwait(false);
+        StateHasChanged();
+    }
+
+    private void Limpar()
+    {
+        strURL = "";
+        Resposta = "";
+
+    }
+
+
+}

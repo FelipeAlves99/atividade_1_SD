@@ -1,0 +1,52 @@
+﻿@page "/"
+@inject HttpClient HttpClient
+
+<h2>Web API2.0!!!</h2>
+
+Bem vindos a pagina de teste de Desenvolvimento.
+UNIP CC7/7
+
+<br>
+
+<label class="alert"> Url EndPoint:</label>
+<div>
+    <input type="text" @bind="strURL" />
+</div>
+
+<button class="btn btn-primary" @onclick="InvocarAPI">Executar</button>
+<button class="btn btn-primary" @onclick="Limpar">Limpar</button>
+
+<br>
+<br>
+<br>
+
+<label>Resposta:</label>
+<div class="alert-info">
+    <h2> @Resposta </h2>
+</div>
+
+
+@code
+{
+    [Parameter] public String strURL { get; set; }
+    private String Resposta;
+
+
+
+    private async void InvocarAPI()
+    {
+        var resp = await HttpClient.GetAsync(strURL);
+        
+        Resposta = await resp.Content.ReadAsStringAsync().ConfigureAwait(false);
+        StateHasChanged();
+    }
+
+    private void Limpar()
+    {
+        strURL = "";
+        Resposta = "";
+
+    }
+
+
+}

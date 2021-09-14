@@ -1,0 +1,1282 @@
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\FrontEnd.StaticWebAssets.xml
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\FrontEnd.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\FrontEnd.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\FrontEnd.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\FrontEnd.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.AssemblyInfoInputs.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.AssemblyInfo.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.csproj.CoreCompileInputs.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorComponent.input.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorComponent.output.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\FrontEnd.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.TagHelpers.input.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.TagHelpers.output.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorCoreGenerate.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\App.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\y6bHzq4J.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\lByhQtGG.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\9V+ul9QY.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\L5NwhOUe.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\kPgKlZ4a.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\NrlHCW20.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\CTGey3kX.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\kqzNxw8k.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\yLy38IJO.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\25Ucapcv.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\bdeVjf4Q.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\KNd+d0f6.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\NICq7Hgo.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\04lsERIh.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\dnJNGhT+.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\OASYBW2j.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\SiVjm+iy.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Yx4NAwv+.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\6+Vpu+lm.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\wjn8SPdI.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\YFGR1UeS.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\tvk7gCwE.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\mFB3FGXl.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Xf+eS1Ge.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\staticwebassets\FrontEnd.StaticWebAssets.Manifest.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\staticwebassets\FrontEnd.StaticWebAssets.xml
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\scopedcss\bundle\FrontEnd.styles.css
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\scopedcss\projectbundle\FrontEnd.bundle.scp.css
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorTargetAssemblyInfo.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\ref\FrontEnd.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.csproj.AssemblyReference.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\ref\FrontEnd.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\tI7gcdpU.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\GSfhIupj.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\p3ejxGwP.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\dI4nOr+z.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\V4PbDJG+.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\h9Xgqpeg.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\WsBvSUr0.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\r+kkfAG4.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\mtzWDx+D.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\a92112A3.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\WapTRPFi.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\bURGQove.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\+DQYr6Ia.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\EhgwNDSu.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\VVn1zdKy.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\QKeWzPc+.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\LjAfPlOy.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\5gExv8GJ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\l7fMiDQH.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Gg4iW8mf.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\AX+zDhT9.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\z356E6QA.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\gLd7MD6y.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\bLRYc9Ss.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\JIsTn8SM.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\0pCuw6rj.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\3evkZNOk.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Cz1bTfYO.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\o99SDQCz.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\LD9iIpIh.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\eVR6+9jk.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\AWEZEr+5.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\sKtvLsl9.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\jmBzFq1p.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\iLTOUL9L.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\RQMlNX8Z.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\DVvMHGT3.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\waUsqclV.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Ncv+5ofV.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\f+3rXnAR.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\cA7urFnV.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\5Z7X+bKR.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Y+9ae2xY.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\HlQVTm1b.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\1EQaiBOM.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\df9IaxCK.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\l1NpG+n+.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\dTGVVf+X.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\w31trW3M.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\6T4quAfM.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\wEDYshL3.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Tuv923pE.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\f2cvDcd5.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\AKhlt5HZ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\ovtITalH.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\MCNCm0CL.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\FzWZ598m.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\SQcEm0X6.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\+mvvHNNu.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\QZbseVG5.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\P5Pp8F0I.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\M0XoK6K9.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\w6PAu7oI.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\7d8P5p8V.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\4CjRi88h.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\aE4jpFmh.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\QDZf5WEr.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\PuKhmL12.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\uiUTZ+rW.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\2LXg0uwy.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\7prW8fLR.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\p2vBDmld.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\san0VLcX.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\dUX4C3G5.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\JkyNFlky.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\JRv8ayRs.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\XH5JnC5J.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\3TyW4ZBy.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\YR3nGcWv.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\CpXYHwTz.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\EgOQy6Hv.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\+o3KY4iG.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\bZNvCNFc.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\DPcJZXjt.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\piVgm26t.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\HNhJ9lMf.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\mVc6X2sh.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\IWwhBl3s.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\zI7byMSk.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\K2UhgnpN.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\lnzgKjzb.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\73hDWTCb.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\7pQ+HoOf.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\kffFdTBR.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\RjA1zO6w.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\xsOdFckN.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\YNvyz8hJ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\7FjS21bd.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\37zOHCcZ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Gmww9nZC.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\GGGLTKq+.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\8dHZ+dwX.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\GFoorMT1.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\tlDOARMz.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\ZfwHeAaN.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\twh2QgBl.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\LTVKsA7g.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\CZRAgQno.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\RcGdbW55.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\5OzgYhqK.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\i0ZfWh9e.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Yd8xSgYj.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\IAGCw29Z.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\xaVMNIsZ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\ePcd+kAF.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\fyNJG2F3.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\UYl7oM0m.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\dDGPiuA9.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\BWaJzSkM.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\g4jZTUtw.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\WqHgkHp8.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\uBGThSUY.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\3b+LjiY3.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\2hV76Zwb.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\pQ+ehGc9.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\FNUQv+Ph.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\ferV4Yak.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\dddJFEVb.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\WztsQ92S.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\37B4GkUE.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\vrlFns2U.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\cwKc1vFt.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\FesWTkMf.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\mRUUaiPG.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\n9lCcGdQ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\VjCOliK7.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\9LooOtOD.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\y2r2QWDg.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\piK6YuE6.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\P3ktPZgZ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\rbKAjcdR.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\1jXfDIov.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\XdgG59tC.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\pzU+h+bN.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\9KsgdmpI.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\7AtCdnAn.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Rkr+6Lbn.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\VPN5cJSU.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\G7p2spjV.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\PfsBBxRb.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\+++iQx3o.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\Zuon3Gph.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\NSFSByJQ.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\zrkZUEzh.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\+Uhah1+d.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\2pbxJAuY.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\9TALEUKe.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\CqBOwkCk.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\audr7x69.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\RV0zrMpk.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\xju60sP0.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\mnPYt9eE.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\8NegXo+d.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\YelVrXb8.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\2wOGK0xU.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\bsuhQrhn.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\xTpiLwEU.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\HtjAaBuv.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\SGiL0vfy.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\8f3kfm6w.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\ZfbYg+q+.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\+WMEuH5S.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\FrontEnd.csproj.CopyComplete
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Compartilhado.dll.gz
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Compartilhado.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Compartilhado.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\JogarCartelas.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\Razor\Pages\JogarCartelas.razor.g.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\FrontEnd\obj\Debug\net5.0\build-gz\pl9y1buj.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.boot.json
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\FrontEnd.StaticWebAssets.xml
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\FrontEnd.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\ref\FrontEnd.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\FrontEnd.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\FrontEnd.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\FrontEnd.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\blazor.webassembly.js
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Compartilhado.dll.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Authorization.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.AspNetCore.Metadata.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Options.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Extensions.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Newtonsoft.Json.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipelines.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.CSharp.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.Core.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.VisualBasic.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Microsoft.Win32.Registry.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.AppContext.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Buffers.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Concurrent.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Immutable.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.NonGeneric.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.Specialized.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Collections.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Annotations.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.DataAnnotations.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.EventBasedAsync.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.TypeConverter.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ComponentModel.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Configuration.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Console.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Core.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.Common.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.DataSetExtensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Data.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Contracts.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Debug.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.DiagnosticSource.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.FileVersionInfo.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Process.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.StackTrace.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tools.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.TraceSource.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Diagnostics.Tracing.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Drawing.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Dynamic.Runtime.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Formats.Asn1.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Calendars.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.Extensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Globalization.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.Brotli.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.FileSystem.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.ZipFile.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Compression.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.AccessControl.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.DriveInfo.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.Watcher.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.FileSystem.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.IsolatedStorage.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.MemoryMappedFiles.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.AccessControl.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.Pipes.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.UnmanagedMemoryStream.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.IO.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Expressions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Parallel.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.Queryable.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Linq.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Memory.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.Json.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Http.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.HttpListener.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Mail.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NameResolution.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.NetworkInformation.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Ping.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Requests.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Security.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.ServicePoint.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.Sockets.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebClient.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebHeaderCollection.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebProxy.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.Client.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.WebSockets.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Net.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.Vectors.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Numerics.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ObjectModel.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.DataContractSerialization.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Runtime.InteropServices.JavaScript.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Uri.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.Linq.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.Xml.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.DispatchProxy.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.ILGeneration.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.Lightweight.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Emit.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Extensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Metadata.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.TypeExtensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Reflection.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Reader.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.ResourceManager.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Resources.Writer.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Extensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Handles.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.InteropServices.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Intrinsics.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Loader.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Numerics.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Formatters.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Json.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.Xml.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.Serialization.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Runtime.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.AccessControl.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Claims.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Algorithms.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Cng.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Csp.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Encoding.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.OpenSsl.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.Primitives.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Cryptography.X509Certificates.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.Windows.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.Principal.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.SecureString.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Security.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceModel.Web.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ServiceProcess.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.CodePages.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.Extensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encoding.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Encodings.Web.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.Json.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Text.RegularExpressions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Channels.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Overlapped.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Dataflow.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Extensions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.Parallel.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Tasks.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Thread.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.ThreadPool.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.Timer.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Threading.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.Local.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Transactions.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.ValueTuple.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.HttpUtility.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Web.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Windows.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Linq.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.ReaderWriter.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.Serialization.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XDocument.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.XDocument.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XPath.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlDocument.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.XmlSerializer.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Xml.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\WindowsBase.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\mscorlib.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\netstandard.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\System.Private.CoreLib.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.timezones.blat
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.wasm
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt.dat
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_CJK.dat
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_EFIGS.dat
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\icudt_no_CJK.dat
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\dotnet.5.0.9.js
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Compartilhado.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\bin\Debug\net5.0\wwwroot\_framework\Compartilhado.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.csproj.AssemblyReference.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.AssemblyInfoInputs.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.AssemblyInfo.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.csproj.CoreCompileInputs.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorComponent.input.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\App.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Counter.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\FetchData.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\Index.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Pages\JogarCartelas.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\SurveyPrompt.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\_Imports.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\MainLayout.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\Shared\NavMenu.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorComponent.output.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\RazorDeclaration\FrontEnd.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.TagHelpers.input.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.TagHelpers.output.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorCoreGenerate.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\App.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\Pages\Counter.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\Pages\FetchData.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\Pages\Index.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\Pages\JogarCartelas.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\Shared\SurveyPrompt.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\_Imports.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\Shared\MainLayout.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\Razor\Shared\NavMenu.razor.g.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Cd+u0BCJ.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\WodimTRr.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\kjcIvddk.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Mz5nNrFY.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\cU4pH+P9.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\8l71OBDA.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\PFsifSVy.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\n+lxkosz.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\adxyivmf.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\TwIzK+Ex.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\EIuGpvIq.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Ki0A6kaD.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Cz7H8i36.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\lfkyOCPe.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\+qGsZb4d.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\zXmVmkLh.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\VGZB7mZg.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\GceOF5+k.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\oslCtVZy.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\h0cRIIkk.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\yAPg7DLO.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\an3VdANe.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\L21fgY7s.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\UXSXQvU7.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Liihj+W2.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Dn+c5x+f.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\RP5J0bSz.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\v2QuoWuE.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\5YrUHijR.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Gr5L4YaC.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\lbQgqvwl.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\G+YHoZO8.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\sVzjQhRD.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Aj4244Ts.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\CHfm+Pj9.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\C4hK4xSy.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\DBG4wRjA.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\OWNSeMh5.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\m0v7lKnW.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\QTU3LZwV.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\2i+WrTem.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\oOL6cqJK.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\fDuCGSRq.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\cMp488eD.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\QwKbHbUY.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\PqJtcOTk.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\OLL48P5A.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\dg+SFq8K.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\KFbuZk4S.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\DevJys5a.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\CddS6Os1.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\NgbSkHZd.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\R+DgvDsl.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\68N59ehe.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\TTS3laGu.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\6y6w2++M.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\kvWDf8bO.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\DgSaTQS+.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\RsOFE2SY.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\MaVrTBHm.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\+L3hXWQE.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\CMoT+Rza.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\MyoSMzHK.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\W++JEZcP.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\6BI26hYz.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\P0PG+XaQ.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\wvJJwsMJ.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\wlVA+Yk0.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\LQDyVhpi.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\z4BVtUle.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\PlwZgU8n.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\N22wczxk.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\PeJCF0oa.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\M1G+OspC.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\n8xA+qrL.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\gYgXxmg4.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\NXn+XnxZ.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\1HbMRcbt.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\rgT+UGsg.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\zO0Z7xxK.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\+Qe23UBn.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Hrys6nt1.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\z+wgu6eD.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\DoruuAbN.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\NOkCpMD5.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\0MwIgY7x.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\3Klq153T.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ebu172wQ.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\+jLI4FJH.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\yTXJbooh.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\D3BwVZCC.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\l69VNaFv.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\aqrzpnLA.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\vIBDDJxk.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\b6us04Cy.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\kT2tFXy8.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\UMSSMr8r.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\YiiDTbQ8.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\yiYeKGwb.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\K0F1k24i.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\A1BWwh22.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Pyi0HYi2.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\tJR5I+Ha.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\tdfArxM7.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\459jDC+L.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\LiwwQYdR.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\3XQ2owSm.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\n3+OahGv.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\8F+b1D1D.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\oAmeQsAi.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\+6w+Ws31.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\61oeu7Bj.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\q48SsCuc.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\mMNgdD77.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\s+hYcW4N.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\GsXQDZSw.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\zgHKNEJc.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\p7XgXD76.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Vhhp1kne.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\cNHeA+3N.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\OxkOODB7.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\UQIbu8G1.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Rish8MjW.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\bWEcgbWw.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\vIlGQjmq.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\PEmI91LF.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\aacDqHfI.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\aS9qPxu8.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ZqiacI4W.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\cZHCt3PC.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\x4m4mYR9.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\c911wpjR.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\6oLdW1hT.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\LGSK0QCE.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ptjgmn8X.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\zVjnl8tS.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\QhQc4Qv1.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\bMPI61Uf.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\rOTROkA+.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\DRXgxquN.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\kMax5RuO.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\jbFaHYQA.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\r1RuBMv8.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\EhZCvwLv.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\sNRf2zSP.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\GBH4w25s.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\1FUoZpSP.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\UUdPdiHc.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\L9vrWrox.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\vxbPIwxy.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\txOgFuf+.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\VQ5Rd7fq.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\nd7Q+b5s.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\y7t1grsg.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\PHhtKtIr.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\9hvi4RJs.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ThxYIx9M.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\x8fzJ9WI.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\wooepvMy.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\c1pQX4uB.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\hfuyzSXp.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ZYb2D23f.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\fG+jTYev.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\84nwFUhB.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\VJLZ+0h+.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\R9VXBQPj.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\OGY6wuwa.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\0ytdGw3k.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\HLgq+2pW.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Q1s1lE82.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\N9UaqGex.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\P5BePiFi.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ywWcOVD1.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\xkbluGb9.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\0wwPu4f4.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\rBF+VJJR.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ayV4RqjN.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\LUnW9nOR.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\ot0ASKiD.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\2kppMqjX.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\oZcuq9BX.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\1JotymzM.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\Kk+Mgd+Z.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\A35j7JOt.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\DLYky+g3.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\4XxQdBl9.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\MiBJQCr+.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\oU2V+xoh.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\VdB0LaNr.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\a1+0yLpx.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\lSTC9dlz.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\SxZGKc5W.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\grUoMzSi.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\7vbci2bh.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\B4zTpHvE.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\WakoCzuf.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\build-gz\mcI+Oesz.gz
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\staticwebassets\FrontEnd.StaticWebAssets.Manifest.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\staticwebassets\FrontEnd.StaticWebAssets.xml
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\scopedcss\Shared\MainLayout.razor.rz.scp.css
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\scopedcss\Shared\NavMenu.razor.rz.scp.css
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\scopedcss\bundle\FrontEnd.styles.css
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\scopedcss\projectbundle\FrontEnd.bundle.scp.css
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.RazorTargetAssemblyInfo.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.csproj.CopyComplete
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\ref\FrontEnd.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\FrontEnd\obj\Debug\net5.0\FrontEnd.pdb

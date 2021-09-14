@@ -1,0 +1,115 @@
+﻿@page "/jogar"
+@using Compartilhado.Models;
+@inject IRepositoryCartela repCartelas
+@inject IRepositoryBingo repBingo
+
+<h3>Bingo</h3>
+
+<h3>Bem vindo @jogador.Nome [@jogador.Id]</h3>
+
+<br>
+<h3>NumerosSorteados:</h3>
+<h1>
+    @foreach (var sort in Sorteados)
+    {
+        @sorteioFormatar(sort)
+     }
+
+</h1>
+<button class="btn btn-primary" @onclick="Sortear">Sortear Pedra</button>
+<br>
+<br>
+<button class="btn btn-primary" @onclick="adiquirirCartela">Adquirir Cartela</button>
+<br>
+<br>
+<br>
+
+@if (jogador.MinhasCartelas is not null)
+    @if (jogador.MinhasCartelas.Count > 0)
+    {
+        <table class="table">
+            <thead>
+                <tr>
+                    <th>A</th>
+                    <th>B</th>
+                    <th>C</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    @foreach (var num in jogador.MinhasCartelas[0].CartelaNumeros)
+                    {
+                        <td>@num</td>
+                    }
+                </tr>
+                <tr>
+                    @foreach (var sorteado in jogador.MinhasCartelas[0].CartelaMarcacao)
+                    {
+                        <td>@XorEmpty(sorteado)</td>
+                    }
+                </tr>
+
+            </tbody>
+        </table>
+    }
+
+    <br>
+
+    <button class="btn btn-primary" @onclick="VerificarBingo">Bingo!</button>
+    <h1> @MsgVitoria</h1>
+
+
+    @code {
+        public Usuario jogador = new Usuario { Nome = "Arthur", Id = 1, MinhasCartelas = new List<Cartela>() };
+        public List<int> Sorteados = new List<int>();
+        private string MsgVitoria = "";
+
+        protected override void OnInitialized()
+        {
+            jogador = new Usuario { Nome = "Arthur", Id = 1, MinhasCartelas = new List<Cartela>() };
+
+        }
+
+
+        public void adiquirirCartela()
+        {
+            var novaCartela = repCartelas.GenerateCartela();
+            if (jogador.MinhasCartelas.Count == 0)
+                jogador.MinhasCartelas.Add(novaCartela);
+            else
+                jogador.MinhasCartelas[0] = novaCartela;
+
+            StateHasChanged();
+        }
+
+        private string XorEmpty(bool valor)
+        {
+            if (valor)
+                return "X";
+            else
+                return "_";
+        }
+
+        private void Sortear()
+        {
+            var sorteado = repBingo.SortearPedra();
+            Sorteados.Add(sorteado);
+            jogador.MinhasCartelas[0].Verificar(sorteado);
+            StateHasChanged();
+        }
+
+        private void VerificarBingo()
+        {
+            if(repBingo.VericarCartela(jogador.MinhasCartelas[0]))
+            {
+                MsgVitoria = "Parabéns Você Venceu!!!";
+            }
+        }
+
+        private string sorteioFormatar(int n)
+        {
+            return n + " | ";
+        }
+
+
+    }

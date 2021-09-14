@@ -1,0 +1,20 @@
+﻿@page "/counter"
+@inject IHttpService requisicaoHttp
+
+<h1>Counter</h1>
+
+<p>Current count: @currentCount</p>
+
+<button class="btn btn-primary" @onclick="IncrementCount">Click me</button>
+
+@code {
+    private int currentCount = 2;
+
+    private async void IncrementCount()
+    {
+        string url = "api/Calculadora/quadrado";
+        var responseWrapper = await requisicaoHttp.Get<int>($"{url}/{currentCount}") ;
+        currentCount = responseWrapper.Response;
+        StateHasChanged();
+    }
+}

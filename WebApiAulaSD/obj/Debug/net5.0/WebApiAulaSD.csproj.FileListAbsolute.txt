@@ -1,0 +1,118 @@
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\FrontEnd.StaticWebAssets.xml
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\appsettings.Development.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\appsettings.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.StaticWebAssets.xml
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.exe
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.deps.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.runtimeconfig.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.runtimeconfig.dev.json
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.JSInterop.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Newtonsoft.Json.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\System.IO.Pipelines.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\FrontEnd.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\FrontEnd.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.GeneratedMSBuildEditorConfig.editorconfig
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.AssemblyInfoInputs.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.AssemblyInfo.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.csproj.CoreCompileInputs.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.MvcApplicationPartsAssemblyInfo.cs
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.MvcApplicationPartsAssemblyInfo.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\staticwebassets\WebApiAulaSD.StaticWebAssets.Manifest.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\staticwebassets\WebApiAulaSD.StaticWebAssets.xml
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\scopedcss\bundle\WebApiAulaSD.styles.css
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.RazorTargetAssemblyInfo.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.csproj.CopyComplete
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\ref\WebApiAulaSD.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.pdb
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.genruntimeconfig.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.csproj.AssemblyReference.cache
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\ref\WebApiAulaSD.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Compartilhado.dll
+D:\Unip - Aulas\workspace\WebApiAulaSD\WebApiAulaSD\bin\Debug\net5.0\Compartilhado.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\appsettings.json
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugHost.runtimeconfig.json
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\BrowserDebugProxy.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Microsoft.CodeAnalysis.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Pdb.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Mono.Cecil.Rocks.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\BlazorDebugProxy\Newtonsoft.Json.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\FrontEnd.StaticWebAssets.xml
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.StaticWebAssets.xml
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.exe
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.deps.json
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.runtimeconfig.json
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.runtimeconfig.dev.json
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\ref\WebApiAulaSD.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\WebApiAulaSD.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Authorization.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Forms.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.Web.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Components.WebAssembly.Server.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.JsonPatch.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Metadata.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.AspNetCore.Mvc.NewtonsoftJson.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.JSInterop.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.JSInterop.WebAssembly.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Newtonsoft.Json.Bson.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\System.IO.Pipelines.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Compartilhado.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\FrontEnd.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\FrontEnd.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\bin\Debug\net5.0\Compartilhado.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.csproj.AssemblyReference.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.AssemblyInfoInputs.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.AssemblyInfo.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.csproj.CoreCompileInputs.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\staticwebassets\WebApiAulaSD.StaticWebAssets.Manifest.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\staticwebassets\WebApiAulaSD.StaticWebAssets.xml
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\scopedcss\bundle\WebApiAulaSD.styles.css
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.RazorTargetAssemblyInfo.cache
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.csproj.CopyComplete
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\ref\WebApiAulaSD.dll
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.pdb
+C:\Users\falve\Downloads\WebApiAulaSD_Bingo\WebApiAulaSD\obj\Debug\net5.0\WebApiAulaSD.genruntimeconfig.cache
