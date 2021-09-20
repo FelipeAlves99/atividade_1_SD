@@ -26,9 +26,6 @@ namespace WebApiAulaSD
             services.AddMvc(options => options.EnableEndpointRouting = false);
             services.AddSingleton<IConfiguration>(Configuration);
 
-            services.AddScoped<IRepositoryBingo, FakeBingoRep>();
-            services.AddScoped<IRepositoryCartela, FakeCartelaRep>();
-
             services.AddControllers();
             services.AddRazorPages(); //WebAssembly add
             services.AddSwaggerGen(c =>

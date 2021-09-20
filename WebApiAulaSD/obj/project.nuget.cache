@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "omkBXuXtGdCisSIHpriMxSzrUVN44TvqdkvT8esR3KcxVyYKsj2j9yRVtayWpOGznPRrRa4zyUoX3Sp6RpxYgw==",
+  "dgSpecHash": "Mcd4MIa5lqKMyOHBEP1x1bOakcoi0CFP0P/xhkNX0fJJ7NrRbkbWd39GAZiBWkBikqIeRwW3YPxhjDYYZdkM2w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\falve\\Downloads\\WebApiAulaSD_Bingo\\WebApiAulaSD\\WebApiAulaSD.csproj",
+  "projectFilePath": "C:\\repos\\atividade_1_SD\\WebApiAulaSD\\WebApiAulaSD.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\falve\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.2\\microsoft.aspnetcore.authorization.5.0.2.nupkg.sha512",
     "C:\\Users\\falve\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.2\\microsoft.aspnetcore.components.5.0.2.nupkg.sha512",

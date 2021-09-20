@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\falve\\Downloads\\WebApiAulaSD_Bingo\\Compartilhado\\Compartilhado.csproj": {}
+    "C:\\repos\\atividade_1_SD\\Compartilhado\\Compartilhado.csproj": {}
   },
   "projects": {
-    "C:\\Users\\falve\\Downloads\\WebApiAulaSD_Bingo\\Compartilhado\\Compartilhado.csproj": {
+    "C:\\repos\\atividade_1_SD\\Compartilhado\\Compartilhado.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\falve\\Downloads\\WebApiAulaSD_Bingo\\Compartilhado\\Compartilhado.csproj",
+        "projectUniqueName": "C:\\repos\\atividade_1_SD\\Compartilhado\\Compartilhado.csproj",
         "projectName": "Compartilhado",
-        "projectPath": "C:\\Users\\falve\\Downloads\\WebApiAulaSD_Bingo\\Compartilhado\\Compartilhado.csproj",
+        "projectPath": "C:\\repos\\atividade_1_SD\\Compartilhado\\Compartilhado.csproj",
         "packagesPath": "C:\\Users\\falve\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\falve\\Downloads\\WebApiAulaSD_Bingo\\Compartilhado\\obj\\",
+        "outputPath": "C:\\repos\\atividade_1_SD\\Compartilhado\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.401\\RuntimeIdentifierGraph.json"
         }
       }
     }

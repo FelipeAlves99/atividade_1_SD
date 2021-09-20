@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dPhw75ms36wZASNHGqRoKK8xrXREKgD5XQ/l5I2cULsSt0ASxei4aysSC30934jIn0PbqGCYhi0Uir2peC4hoQ==",
+  "dgSpecHash": "FZwBPyaf2zwL6s7R7kSo2uK18uVd34Lmdx/owU0i+TVfdnn+XBq7R3/f16BsMfy+o0dextNYZTk6JCNTm9QR/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\falve\\Downloads\\WebApiAulaSD_Bingo\\FrontEnd\\FrontEnd.csproj",
+  "projectFilePath": "C:\\repos\\atividade_1_SD\\FrontEnd\\FrontEnd.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\falve\\.nuget\\packages\\microsoft.aspnetcore.authorization\\5.0.2\\microsoft.aspnetcore.authorization.5.0.2.nupkg.sha512",
     "C:\\Users\\falve\\.nuget\\packages\\microsoft.aspnetcore.components\\5.0.2\\microsoft.aspnetcore.components.5.0.2.nupkg.sha512",
@@ -31,7 +31,7 @@
     "C:\\Users\\falve\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\falve\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512",
     "C:\\Users\\falve\\.nuget\\packages\\system.net.http.json\\5.0.0\\system.net.http.json.5.0.0.nupkg.sha512",
-    "C:\\Users\\falve\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.9\\microsoft.netcore.app.runtime.browser-wasm.5.0.9.nupkg.sha512"
+    "C:\\Users\\falve\\.nuget\\packages\\microsoft.netcore.app.runtime.browser-wasm\\5.0.10\\microsoft.netcore.app.runtime.browser-wasm.5.0.10.nupkg.sha512"
   ],
   "logs": []
 }

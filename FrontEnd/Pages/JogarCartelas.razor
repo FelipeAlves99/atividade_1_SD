@@ -71,9 +71,9 @@
         }
 
 
-        public void adiquirirCartela()
+        public async Task adiquirirCartela()
         {
-            var novaCartela = repCartelas.GenerateCartela();
+            var novaCartela = await repCartelas.GenerateCartela();
             if (jogador.MinhasCartelas.Count == 0)
                 jogador.MinhasCartelas.Add(novaCartela);
             else
@@ -90,17 +90,17 @@
                 return "_";
         }
 
-        private void Sortear()
+        private async Task Sortear()
         {
-            var sorteado = repBingo.SortearPedra();
+            var sorteado = await repBingo.SortearPedra();
             Sorteados.Add(sorteado);
             jogador.MinhasCartelas[0].Verificar(sorteado);
             StateHasChanged();
         }
 
-        private void VerificarBingo()
+        private async Task VerificarBingo()
         {
-            if(repBingo.VericarCartela(jogador.MinhasCartelas[0]))
+            if(await repBingo.VericarCartela(jogador.MinhasCartelas[0]))
             {
                 MsgVitoria = "Parabéns Você Venceu!!!";
             }
