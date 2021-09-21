@@ -7,6 +7,7 @@ namespace Compartilhado.Models
     {
         private List<Cartela> cartelas;
         private int count = 0;
+        private Random random;
 
         public FakeCartelaRep()
         {
@@ -15,21 +16,21 @@ namespace Compartilhado.Models
             {
                 Ativa = true,
                 Id = 1000,
-                CartelaNumeros = new List<int> { 1, 2, 3 },
+                CartelaNumeros = new List<int> { random.Next(1, 99), random.Next(1, 99), random.Next(1, 99) },
                 CartelaMarcacao = new List<bool> { false, false, false }
             });
             cartelas.Add(new Cartela
             {
                 Ativa = true,
                 Id = 1001,
-                CartelaNumeros = new List<int> { 10, 20, 30 },
+                CartelaNumeros = new List<int> { random.Next(1, 99), random.Next(1, 99), random.Next(1, 99) },
                 CartelaMarcacao = new List<bool> { false, false, false }
             });
             cartelas.Add(new Cartela
             {
                 Ativa = true,
                 Id = 1002,
-                CartelaNumeros = new List<int> { 11, 22, 33 },
+                CartelaNumeros = new List<int> { random.Next(1, 99), random.Next(1, 99), random.Next(1, 99) },
                 CartelaMarcacao = new List<bool> { false, false, false }
             });
         }
@@ -43,14 +44,14 @@ namespace Compartilhado.Models
         {
             if (count < 2)
             {
-                return cartelas[count];
                 count++;
+                return cartelas[count];
             }
             else
             {
                 count = 0;
-                return cartelas[count];
                 count++;
+                return cartelas[count];
             }
         }
     }

@@ -1,11 +1,31 @@
-﻿using System.Collections.Generic;
+﻿using System;
+using System.Collections.Generic;
 
 namespace Compartilhado.Models
 {
     public class FakeBingoRep
     {
-        private List<int> _fakeData = new List<int> { 1, 4, 7, 2, 11, 3, 22, 9, 33 };
-        private List<int> sorteio = new List<int>();
+        private List<int> _fakeData;
+        private List<int> sorteio;
+        private Random random;
+
+        public FakeBingoRep()
+        {
+            _fakeData = new List<int>
+            {
+                random.Next(1, 99),
+                random.Next(1, 99),
+                random.Next(1, 99),
+                random.Next(1, 99),
+                random.Next(1, 99),
+                random.Next(1, 99),
+                random.Next(1, 99),
+                random.Next(1, 99),
+                random.Next(1, 99)
+            };
+
+            sorteio = new List<int>();
+        }
 
         public int Id { get; set; } = 1;
 
