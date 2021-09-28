@@ -1,6 +1,7 @@
 using Compartilhado.Models;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Hosting;
@@ -25,6 +26,8 @@ namespace WebApiAulaSD
 
             services.AddMvc(options => options.EnableEndpointRouting = false);
             services.AddSingleton<IConfiguration>(Configuration);
+
+            services.AddDbContext<AppDbContext>(opt => opt.UseSqlServer(Configuration.GetConnectionString("connectionString")));
 
             services.AddControllers();
             services.AddRazorPages(); //WebAssembly add

@@ -22,3 +22,15 @@ C:\Users\falve\Downloads\WebApiAulaSD_Bingo\Compartilhado\obj\Debug\net5.0\Compa
 C:\Users\falve\Downloads\WebApiAulaSD_Bingo\Compartilhado\obj\Debug\net5.0\Compartilhado.dll
 C:\Users\falve\Downloads\WebApiAulaSD_Bingo\Compartilhado\obj\Debug\net5.0\ref\Compartilhado.dll
 C:\Users\falve\Downloads\WebApiAulaSD_Bingo\Compartilhado\obj\Debug\net5.0\Compartilhado.pdb
+C:\repos\atividade_1_SD\Compartilhado\bin\Debug\net5.0\Compartilhado.deps.json
+C:\repos\atividade_1_SD\Compartilhado\bin\Debug\net5.0\Compartilhado.dll
+C:\repos\atividade_1_SD\Compartilhado\bin\Debug\net5.0\ref\Compartilhado.dll
+C:\repos\atividade_1_SD\Compartilhado\bin\Debug\net5.0\Compartilhado.pdb
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\Compartilhado.csproj.AssemblyReference.cache
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\Compartilhado.GeneratedMSBuildEditorConfig.editorconfig
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\Compartilhado.AssemblyInfoInputs.cache
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\Compartilhado.AssemblyInfo.cs
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\Compartilhado.csproj.CoreCompileInputs.cache
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\Compartilhado.dll
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\ref\Compartilhado.dll
+C:\repos\atividade_1_SD\Compartilhado\obj\Debug\net5.0\Compartilhado.pdb
